@@ -1,3 +1,4 @@
+```
 akasa-data-engineer/
 │
 ├── main.py                          # Main pipeline execution script
@@ -72,3 +73,4 @@ akasa-data-engineer/
 │   
 │
 └── docs/                            # Documentation
+```
